@@ -1,0 +1,6 @@
+{
+  "name": "Afghanistan Encyclopedia",
+  "description": "A comprehensive Pashto language encyclopedia about Afghanistan, including history, culture, provinces, and an interactive Pashto AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
